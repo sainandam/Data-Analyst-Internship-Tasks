@@ -1,0 +1,19 @@
+Marketing Campaign Analysis Summary
+==================================
+
+Total Customers: 2240
+Total Revenue (Spending): 1356988.00
+
+Purchases by Channel:
+            Channel  Total_Purchases
+    NumWebPurchases             9150
+NumCatalogPurchases             5963
+  NumStorePurchases            12970
+
+Campaign Acceptance Totals:
+AcceptedCmp1: 144
+AcceptedCmp2: 30
+AcceptedCmp3: 163
+AcceptedCmp4: 167
+AcceptedCmp5: 163
+Response: 334
